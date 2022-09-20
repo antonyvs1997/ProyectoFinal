@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Cineplanet</string>
+    <string name="title_activity_cartelera">CarteleraActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="label_nombreuser"><u>¿No tienes una cuenta? Regístrate.</u></string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Cartelera</string>
+    <string name="menu_gallery">Usuario</string>
+    <string name="menu_slideshow">Información</string>
+    <string-array name="tipoDoc">
+        <item>DNI</item>
+        <item>RUC</item>
+    </string-array>
+    <string-array name="departamentos">
+        <item>Lambayeque</item>
+        <item>Piura</item>
+        <item>Tumbes</item>
+        <item>Lima</item>
+        <item>Áncash</item>
+        <item>Arequipa</item>
+        <item>Ayacucho</item>
+        <item>Cusco</item>
+        <item>Tumbes</item>
+
+    </string-array>
+    <string-array name="provincias">
+        <item>Chiclayo</item>
+        <item>Lambayeque</item>
+        <item>Paita</item>
+        <item>Sucre</item>
+        <item>Callao</item>
+        <item>Arrquipa</item>
+
+    </string-array>
+    <string-array name="distritos">
+        <item>San Miguel</item>
+        <item>Pueblo Nuevo</item>
+        <item>San Martin de Porres</item>
+        <item>Comas</item>
+        <item>Villa de Salvador</item>
+        <item>El Agustino</item>
+        <item>La Victoria </item>
+        <item>Los OLivos</item>
+        <item>Chorrillos </item>
+        <item>Breña</item>
+    </string-array>
+</resources>

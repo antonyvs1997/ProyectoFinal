@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/drawable/button_rounded.xml" value="0.1945" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1945" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/drawable/side_nav_bar.xml" value="0.1945" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout-v31/nav_header_cartelera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/activity_cartelera.xml" value="0.25" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/app_bar_cartelera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/content_cartelera.xml" value="0.20364583333333333" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/layout/nav_header_cartelera.xml" value="0.33" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/menu/activity_cartelera_drawer.xml" value="0.33" />
+        <entry key="..\:/Aplicaciones_Moviles/ProyectoFinal/app/src/main/res/menu/cartelera.xml" value="0.1" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable-v24/ic_login.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable-v24/ic_personuser.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable-v24/ic_user.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable-v24/rounded_button.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable/bg_overlay.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable/button_rounded.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable/ic_add_photo.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable/ic_documento.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable/ic_person_direccion.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/drawable/ic_save.xml" value="0.1415" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/activity_cartelera.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/activity_registrar_usuario.xml" value="0.22" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/app_bar_cartelera.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/content_cartelera.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/dropdown_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/fragment_gallery.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/image_slider_layout_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/item_categorias.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/layout/nav_header_cartelera.xml" value="0.27291666666666664" />
+        <entry key="..\:/SISE_VI_Aplicaciones_Moviles/ProyectoFinal-master/app/src/main/res/menu/activity_cartelera_drawer.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
